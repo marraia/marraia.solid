@@ -1,0 +1,9 @@
+C:\_test\marraia.SOLID\marraia.SOLID\bin\Debug\netcoreapp3.1\marraia.SOLID.deps.json
+C:\_test\marraia.SOLID\marraia.SOLID\bin\Debug\netcoreapp3.1\marraia.SOLID.dll
+C:\_test\marraia.SOLID\marraia.SOLID\obj\Debug\netcoreapp3.1\marraia.SOLID.csprojAssemblyReference.cache
+C:\_test\marraia.SOLID\marraia.SOLID\obj\Debug\netcoreapp3.1\marraia.SOLID.AssemblyInfoInputs.cache
+C:\_test\marraia.SOLID\marraia.SOLID\obj\Debug\netcoreapp3.1\marraia.SOLID.AssemblyInfo.cs
+C:\_test\marraia.SOLID\marraia.SOLID\bin\Debug\netcoreapp3.1\marraia.SOLID.pdb
+C:\_test\marraia.SOLID\marraia.SOLID\obj\Debug\netcoreapp3.1\marraia.SOLID.csproj.CoreCompileInputs.cache
+C:\_test\marraia.SOLID\marraia.SOLID\obj\Debug\netcoreapp3.1\marraia.SOLID.dll
+C:\_test\marraia.SOLID\marraia.SOLID\obj\Debug\netcoreapp3.1\marraia.SOLID.pdb
